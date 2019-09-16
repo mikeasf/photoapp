@@ -1,0 +1,7 @@
+-- DEV Mode running --
+
+1. Go to directory xx/photosharingapp/app.
+2. Type "sudo node sudo node server-db.js".
+3. Browse to "http://localhost:8080/pages/home" to view/administer albums
+
+
